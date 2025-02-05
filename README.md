@@ -55,11 +55,19 @@ Once compiled, you can run the program with the following command:
 Upon running the program, you will see a menu with the following options:
 
 Authenticate: Enter the master password to access the password manager.
+
 Add Password: Add a new password entry.
+
 Get Password: Retrieve a stored password by entering the username.
+
 Delete Password: Remove a password entry by username.
+
 Generate Random Password: Generate a secure random password of a specified length.
+
 Save Passwords: Save all passwords to the encrypted file.
+
 Load Passwords: Load passwords from the encrypted file.
+
 Display All Passwords: Show all stored passwords (encrypted).
+
 Exit: Exit the program.
