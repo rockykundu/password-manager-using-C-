@@ -23,7 +23,8 @@ This is a **Password Manager** application developed in C++ that allows users to
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/password-manager.git
+   git clone https://github.com/rockykundu/password-manager-using-C-.git
+   
    cd password-manager
 Install OpenSSL:
 
